@@ -1,0 +1,4 @@
+Obviamente aprender é bom demais, mas dessa vez 
+eu criei uma pasta nova, fiz um git clone nessa pasta
+e como se estivesse trabalhando com esses arquivos,
+adicionei esse novo arquivo .txt e vou commitá-lo novamente.
