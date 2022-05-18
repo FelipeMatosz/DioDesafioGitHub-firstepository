@@ -1,2 +1,3 @@
 # DioDesafioGitHub-firstepository
-Desafio de projeto sobre GitHub
+Repositório criado para o desafio de projeto.
+
